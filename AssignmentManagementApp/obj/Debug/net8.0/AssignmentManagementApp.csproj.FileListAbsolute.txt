@@ -1,0 +1,15 @@
+C:\Active Development\Software Lab\AssignmentManagementApp_Solution\AssignmentManagementApp\bin\Debug\net8.0\AssignmentManagementApp.exe
+C:\Active Development\Software Lab\AssignmentManagementApp_Solution\AssignmentManagementApp\bin\Debug\net8.0\AssignmentManagementApp.deps.json
+C:\Active Development\Software Lab\AssignmentManagementApp_Solution\AssignmentManagementApp\bin\Debug\net8.0\AssignmentManagementApp.runtimeconfig.json
+C:\Active Development\Software Lab\AssignmentManagementApp_Solution\AssignmentManagementApp\bin\Debug\net8.0\AssignmentManagementApp.dll
+C:\Active Development\Software Lab\AssignmentManagementApp_Solution\AssignmentManagementApp\bin\Debug\net8.0\AssignmentManagementApp.pdb
+C:\Active Development\Software Lab\AssignmentManagementApp_Solution\AssignmentManagementApp\obj\Debug\net8.0\AssignmentManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Active Development\Software Lab\AssignmentManagementApp_Solution\AssignmentManagementApp\obj\Debug\net8.0\AssignmentManagementApp.AssemblyInfoInputs.cache
+C:\Active Development\Software Lab\AssignmentManagementApp_Solution\AssignmentManagementApp\obj\Debug\net8.0\AssignmentManagementApp.AssemblyInfo.cs
+C:\Active Development\Software Lab\AssignmentManagementApp_Solution\AssignmentManagementApp\obj\Debug\net8.0\AssignmentManagementApp.csproj.CoreCompileInputs.cache
+C:\Active Development\Software Lab\AssignmentManagementApp_Solution\AssignmentManagementApp\obj\Debug\net8.0\AssignmentManagementApp.sourcelink.json
+C:\Active Development\Software Lab\AssignmentManagementApp_Solution\AssignmentManagementApp\obj\Debug\net8.0\AssignmentManagementApp.dll
+C:\Active Development\Software Lab\AssignmentManagementApp_Solution\AssignmentManagementApp\obj\Debug\net8.0\refint\AssignmentManagementApp.dll
+C:\Active Development\Software Lab\AssignmentManagementApp_Solution\AssignmentManagementApp\obj\Debug\net8.0\AssignmentManagementApp.pdb
+C:\Active Development\Software Lab\AssignmentManagementApp_Solution\AssignmentManagementApp\obj\Debug\net8.0\AssignmentManagementApp.genruntimeconfig.cache
+C:\Active Development\Software Lab\AssignmentManagementApp_Solution\AssignmentManagementApp\obj\Debug\net8.0\ref\AssignmentManagementApp.dll

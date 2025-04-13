@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Active Development\\Software Lab\\AssignmentManagementApp_Solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{59107E21-7548-4838-9D15-63BF0091BFED}|AssignmentManagementApp_Tests\\AssignmentManagementApp_Tests.csproj|c:\\active development\\software lab\\assignmentmanagementapp_solution\\assignmentmanagementapp_tests\\assignment_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59107E21-7548-4838-9D15-63BF0091BFED}|AssignmentManagementApp_Tests\\AssignmentManagementApp_Tests.csproj|solutionrelative:assignmentmanagementapp_tests\\assignment_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5322304-E11B-4D84-A12B-DBDA6A0EC3C2}|AssignmentManagementApp\\AssignmentManagementApp.csproj|c:\\active development\\software lab\\assignmentmanagementapp_solution\\assignmentmanagementapp\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5322304-E11B-4D84-A12B-DBDA6A0EC3C2}|AssignmentManagementApp\\AssignmentManagementApp.csproj|solutionrelative:assignmentmanagementapp\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5322304-E11B-4D84-A12B-DBDA6A0EC3C2}|AssignmentManagementApp\\AssignmentManagementApp.csproj|c:\\active development\\software lab\\assignmentmanagementapp_solution\\assignmentmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5322304-E11B-4D84-A12B-DBDA6A0EC3C2}|AssignmentManagementApp\\AssignmentManagementApp.csproj|solutionrelative:assignmentmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59107E21-7548-4838-9D15-63BF0091BFED}|AssignmentManagementApp_Tests\\AssignmentManagementApp_Tests.csproj|c:\\active development\\software lab\\assignmentmanagementapp_solution\\assignmentmanagementapp_tests\\assignmentmanagementapp_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59107E21-7548-4838-9D15-63BF0091BFED}|AssignmentManagementApp_Tests\\AssignmentManagementApp_Tests.csproj|solutionrelative:assignmentmanagementapp_tests\\assignmentmanagementapp_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 246,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,33 +45,42 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Assignment.cs",
               "DocumentMoniker": "C:\\Active Development\\Software Lab\\AssignmentManagementApp_Solution\\AssignmentManagementApp\\Assignment.cs",
               "RelativeDocumentMoniker": "AssignmentManagementApp\\Assignment.cs",
               "ToolTip": "C:\\Active Development\\Software Lab\\AssignmentManagementApp_Solution\\AssignmentManagementApp\\Assignment.cs",
               "RelativeToolTip": "AssignmentManagementApp\\Assignment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:15:12.459Z",
+              "WhenOpened": "2025-04-13T19:56:59.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Active Development\\Software Lab\\AssignmentManagementApp_Solution\\AssignmentManagementApp\\Program.cs",
-              "RelativeDocumentMoniker": "AssignmentManagementApp\\Program.cs",
-              "ToolTip": "C:\\Active Development\\Software Lab\\AssignmentManagementApp_Solution\\AssignmentManagementApp\\Program.cs",
-              "RelativeToolTip": "AssignmentManagementApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AssignmentManagementApp_Tests",
+              "DocumentMoniker": "C:\\Active Development\\Software Lab\\AssignmentManagementApp_Solution\\AssignmentManagementApp_Tests\\AssignmentManagementApp_Tests.csproj",
+              "RelativeDocumentMoniker": "AssignmentManagementApp_Tests\\AssignmentManagementApp_Tests.csproj",
+              "ToolTip": "C:\\Active Development\\Software Lab\\AssignmentManagementApp_Solution\\AssignmentManagementApp_Tests\\AssignmentManagementApp_Tests.csproj",
+              "RelativeToolTip": "AssignmentManagementApp_Tests\\AssignmentManagementApp_Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T19:55:37.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignment_tests.cs",
+              "DocumentMoniker": "C:\\Active Development\\Software Lab\\AssignmentManagementApp_Solution\\AssignmentManagementApp_Tests\\Assignment_tests.cs",
+              "RelativeDocumentMoniker": "AssignmentManagementApp_Tests\\Assignment_tests.cs",
+              "ToolTip": "C:\\Active Development\\Software Lab\\AssignmentManagementApp_Solution\\AssignmentManagementApp_Tests\\Assignment_tests.cs",
+              "RelativeToolTip": "AssignmentManagementApp_Tests\\Assignment_tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T13:51:19.216Z",
+              "WhenOpened": "2025-04-13T19:46:29.553Z",
               "EditorCaption": ""
             }
           ]
